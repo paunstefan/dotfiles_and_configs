@@ -1,0 +1,7 @@
+Andes.racket-repl
+cschlosser.doxdocgen
+karyfoundation.racket
+ms-python.python
+ms-toolsai.jupyter
+ms-vscode.cpptools
+vscodevim.vim
